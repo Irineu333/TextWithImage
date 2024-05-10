@@ -8,6 +8,9 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:includeFontPadding="false"
+        android:textSize="18sp"
+        android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
